@@ -1,13 +1,9 @@
 {
-  "name": "http-demo",
-  "version": "0.0.3",
-  "description": "just some random test scripts",
+  "name": "blockchain-info-api",
+  "version": "0.0.1",
+  "description": "Blockchain.info JSON API Wrapper",
   "author": "jhw <jackwang@gmail.com>",
   "dependencies": {
-    "lodash": "2.x",
-    "moment": "~2.0.0",
-    "bitcoincharts": "0.0.x",
-    "emailjs": "0.3.6",
     "request": "*",
     "querystring": "~0.2.0"
   }
